@@ -1,0 +1,29 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Login",
+    "pages/Register",
+    "pages/ForgetPassword",
+    "pages/Settings",
+    "pages/Message",
+    "pages/PersonalData",
+    "pages/ChangePhone",
+    "pages/OrderCreate",
+    "pages/Address",
+    "pages/AddressDetail",
+    "pages/PayFail",
+    "pages/PaySuccess",
+    "pages/OrderList",
+    "pages/CouponList",
+    "pages/IntegralPage",
+    "pages/SearchPage",
+    "pages/GoodsDetail",
+    "pages/Member",
+    "pages/Invite",
+    "pages/Service",
+    "pages/Feedback",
+    "pages/MenuDetail",
+    "pages/Map",
+    "pages/Chart"
+  ]
+}

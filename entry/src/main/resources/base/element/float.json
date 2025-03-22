@@ -1,0 +1,28 @@
+{
+  "float": [
+    {
+      "name": "navigation_bar_height",
+      "value": "44vp"
+    },
+    {
+      "name": "tabs_bar_height",
+      "value": "56vp"
+    },
+    {
+      "name": "font_size",
+      "value": "14vp"
+    },
+    {
+      "name": "font_size_large",
+      "value": "16vp"
+    },
+    {
+      "name": "font_size_small",
+      "value": "12vp"
+    },
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    }
+  ]
+}
