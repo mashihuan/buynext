@@ -3,7 +3,8 @@
   "description": "Please describe the basic information.",
   "dependencies": {
     "@ohos/pulltorefresh": "^2.1.2",
-    "@abner/refresh": "^1.4.3"
+    "@abner/refresh": "^1.4.3",
+    "@ohos/mpchart": "^3.0.21"
   },
   "devDependencies": {
     "@ohos/hypium": "1.0.21",

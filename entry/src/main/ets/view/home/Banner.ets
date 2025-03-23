@@ -30,6 +30,7 @@ export struct HomeBanner {
           })
       }, (banner: BannerItem) => banner.id+'')
     }
+    .indicator(new DotIndicator().selectedColor($r('app.color.color_primary')))
     .width('100%')
     .height(165)
     .padding({right: 15, left: 15})

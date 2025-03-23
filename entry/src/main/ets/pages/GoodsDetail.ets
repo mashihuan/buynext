@@ -70,6 +70,7 @@ struct GoodsDetail {
                   .objectFit(ImageFit.Cover)
               }, (banner: BannerItem) => `${banner.id}`)
             }
+            .indicator(new DotIndicator().selectedColor($r('app.color.color_primary')))
             .height('414')
             .width('100%')
             Stack() {

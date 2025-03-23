@@ -1,12 +1,25 @@
 {
   "app": {
     "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": "C:/Users/msh/buynext.p12",
+          "storePassword": "00000020D17DF7575D44D9A2C235D0BC2F8255EEA853D289F2545F7E6C06FB5C55C4E21DF1DA6716818C3CF2D84BD29F",
+          "keyAlias": "buynext",
+          "keyPassword": "00000020A14ABD0EC44C6602C4437989806FD51E9148E6456CF22505C8F60011719FCBA94C26A3511FF7526D8588213E",
+          "signAlg": "SHA256withECDSA",
+          "profile": "C:/Users/msh/buynextDebug.p7b",
+          "certpath": "C:/Users/msh/buynext.cer"
+        }
+      }
     ],
     "products": [
       {
         "name": "default",
         "signingConfig": "default",
-        "compatibleSdkVersion": "5.0.1(13)",
+        "compatibleSdkVersion": "5.0.2(14)",
         "runtimeOS": "HarmonyOS",
         "buildOption": {
           "strictMode": {
