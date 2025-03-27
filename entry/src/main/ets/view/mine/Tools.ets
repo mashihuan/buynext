@@ -16,8 +16,8 @@ export struct MineTools {
     { text: '联系客服', icon: $r('app.media.tool_service'), path: 'pages/Service' },
     { text: '意见反馈', icon: $r('app.media.tool_feedback'), path: 'pages/Feedback' },
     { text: '设置', icon: $r('app.media.tool_settings'), path: 'pages/Settings' },
-    { text: '地图', icon: $r('app.media.icon_map'), path: 'pages/Map' },
-    { text: '图表', icon: $r('app.media.icon_chart'), path: 'pages/Chart' },
+    // { text: '地图', icon: $r('app.media.icon_map'), path: 'pages/Map' },
+    // { text: '图表', icon: $r('app.media.icon_chart'), path: 'pages/Chart' },
   ]
 
   build() {
